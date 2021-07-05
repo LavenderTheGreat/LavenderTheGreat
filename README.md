@@ -4,7 +4,7 @@
   <br>  
   <b>Lavenfurr</b>
   <br>
-  <a href="https://twitter.com/LavenderTGreat">Twitter (Art)</a>
+  <a href="https://lav.moe">lav.moe</a>
   <br>
   <i>Creator with a passion for design, art and programming.</i>
 </p>
